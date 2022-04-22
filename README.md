@@ -1,3 +1,3 @@
-# Progammify
+# Programmify
 
-Turning things into code
+Turning random things into code
