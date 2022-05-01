@@ -10,3 +10,4 @@ Turning random things into code
 
 - [Coffee maker](/javascript/coffee-maker.js)
 - [Mechanical pencil](/javascript/mechanical-pencil.js)
+- [Toaster](/javascript/toaster.js)
