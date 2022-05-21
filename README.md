@@ -1,6 +1,8 @@
 # Programmify
 
-Turning random things into code
+Explore programming concepts and get comfortable with language syntax and semantics by turning random things into code.
+
+I upload accompanying videos on [TikTok](https://www.tiktok.com/@larissa_dev).
 
 ## Programming Languages
 
