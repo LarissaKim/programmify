@@ -1,3 +1,4 @@
+// `menuItems` is an array of objects and `hasEatenBefore` and `isSafeChoice` are boolean arrays
 function chooseMenu(menuItems, hasEatenBefore, isSafeChoice) {
   const candidates = [];
   const safeChoices = []; // This will always have at least one item
@@ -6,6 +7,7 @@ function chooseMenu(menuItems, hasEatenBefore, isSafeChoice) {
     if (!hasEatenBefore[i]) {
       let hasEggplant;
       for (const ingredient in item) {
+        // This assumes the menu is in English
         if (item[ingredient].toLowerCase() === 'eggplant') {
           hasEggplant = true;
           break;
@@ -14,7 +16,7 @@ function chooseMenu(menuItems, hasEatenBefore, isSafeChoice) {
         }
       }
       if (!hasEggplant) candidates.push(item);
-      //  Or we could early return with the first item
+      //  Or we could early return with the first item if no further decision-making will be made
       //  if (!hasEggplant) return item;
     }
 
