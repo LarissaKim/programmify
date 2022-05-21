@@ -1,4 +1,4 @@
-// Basic implementation of a coffee maker as a function
+// Basic implementation of a single-serve coffee maker as a function
 function makeCoffee(coffeePod, waterInMilli) {
   //  temperatures are in celcius
   const boilingWaterTemp = 100;
@@ -11,5 +11,5 @@ function makeCoffee(coffeePod, waterInMilli) {
 
   const coffee = coffeePod + waterInMilli;
 
-  return coffee;
+  return coffee; // or `return coffeePod + waterInMilli;`
 }
