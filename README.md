@@ -13,3 +13,4 @@ Turning random things into code
 - [Mechanical pencil](/javascript/mechanical-pencil.js)
 - [Toaster](/javascript/toaster.js)
 - [Choose what music to listen to](/javascript/music-chooser.js)
+- [Choose what to order from a restaurant](/javascript/menu-chooser.js)
