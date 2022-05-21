@@ -12,3 +12,4 @@ Turning random things into code
 - [Electric fan](/javascript/electric-fan.js)
 - [Mechanical pencil](/javascript/mechanical-pencil.js)
 - [Toaster](/javascript/toaster.js)
+- [Choose what music to listen to](/javascript/music-chooser.js)
