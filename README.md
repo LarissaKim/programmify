@@ -16,3 +16,4 @@ I upload accompanying videos on [TikTok](https://www.tiktok.com/@larissa_dev).
 - [Toaster](/javascript/toaster/index.js)
 - [Choose what music to listen to](/javascript/music-chooser/index.js)
 - [Choose what to order from a restaurant](/javascript/menu-chooser/index.js)
+- [Vending machine](/javascript/vending-machine/index.js)
